@@ -19,6 +19,3 @@ pip install -r requirements.txt
 ```bash
 python3 tomcat_rce.py -t <TARGET_URL> -u <USER> -p <PASSWORD> -c <COMMAND>
 ```
-
----
-*For educational and authorized security auditing purposes only.*
